@@ -13,17 +13,17 @@ In CapForge, go to **NEW GAME → IMPORT**, paste each link into its row, press 
 
 **PLAYERS**
 ```
-https://github.com/jmansfield96/capforge-rosters/blob/main/player-files/madden-27-players.json
+https://github.com/jmansfield96/capforge-custom-rosters/blob/main/player-files/madden-27-players.json
 ```
 
 **TEAMS**
 ```
-https://github.com/jmansfield96/capforge-rosters/blob/main/teams-files/nfl-teams.json
+https://github.com/jmansfield96/capforge-custom-rosters/blob/main/teams-files/nfl-teams.json
 ```
 
 **STAFF**
 ```
-https://github.com/jmansfield96/capforge-rosters/blob/main/staff-files/example-staff.json
+https://github.com/jmansfield96/capforge-custom-rosters/blob/main/staff-files/example-staff.json
 ```
 
 ---
