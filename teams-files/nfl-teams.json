@@ -21,6 +21,8 @@
       "city": "Buffalo",
       "name": "Bills",
       "stadium": "Highmark Stadium",
+      "market": 50,
+      "roof": "open",
       "conference": "AFC",
       "division": "East",
       "colors": {
@@ -36,6 +38,8 @@
       "city": "Miami",
       "name": "Dolphins",
       "stadium": "Hard Rock Stadium",
+      "market": 41,
+      "roof": "open",
       "conference": "AFC",
       "division": "East",
       "colors": {
@@ -51,6 +55,8 @@
       "city": "New England",
       "name": "Patriots",
       "stadium": "Gillette Stadium",
+      "market": 55,
+      "roof": "open",
       "conference": "AFC",
       "division": "East",
       "colors": {
@@ -66,6 +72,8 @@
       "city": "New York",
       "name": "Jets",
       "stadium": "MetLife Stadium",
+      "market": 56,
+      "roof": "open",
       "conference": "AFC",
       "division": "East",
       "colors": {
@@ -81,6 +89,8 @@
       "city": "Baltimore",
       "name": "Ravens",
       "stadium": "M&T Bank Stadium",
+      "market": 29,
+      "roof": "open",
       "conference": "AFC",
       "division": "North",
       "colors": {
@@ -96,6 +106,8 @@
       "city": "Cincinnati",
       "name": "Bengals",
       "stadium": "Paycor Stadium",
+      "market": 54,
+      "roof": "open",
       "conference": "AFC",
       "division": "North",
       "colors": {
@@ -111,6 +123,8 @@
       "city": "Cleveland",
       "name": "Browns",
       "stadium": "Huntington Bank Field",
+      "market": 53,
+      "roof": "open",
       "conference": "AFC",
       "division": "North",
       "colors": {
@@ -126,6 +140,8 @@
       "city": "Pittsburgh",
       "name": "Steelers",
       "stadium": "Acrisure Stadium",
+      "market": 52,
+      "roof": "open",
       "conference": "AFC",
       "division": "North",
       "colors": {
@@ -141,6 +157,8 @@
       "city": "Houston",
       "name": "Texans",
       "stadium": "NRG Stadium",
+      "market": 3,
+      "roof": "retractable",
       "conference": "AFC",
       "division": "South",
       "colors": {
@@ -156,6 +174,8 @@
       "city": "Indianapolis",
       "name": "Colts",
       "stadium": "Lucas Oil Stadium",
+      "market": 15,
+      "roof": "retractable",
       "conference": "AFC",
       "division": "South",
       "colors": {
@@ -171,6 +191,8 @@
       "city": "Jacksonville",
       "name": "Jaguars",
       "stadium": "EverBank Stadium",
+      "market": 9,
+      "roof": "open",
       "conference": "AFC",
       "division": "South",
       "colors": {
@@ -186,6 +208,8 @@
       "city": "Tennessee",
       "name": "Titans",
       "stadium": "Nissan Stadium",
+      "market": 20,
+      "roof": "open",
       "conference": "AFC",
       "division": "South",
       "colors": {
@@ -201,6 +225,8 @@
       "city": "Denver",
       "name": "Broncos",
       "stadium": "Empower Field at Mile High",
+      "market": 18,
+      "roof": "open",
       "conference": "AFC",
       "division": "West",
       "colors": {
@@ -216,6 +242,8 @@
       "city": "Kansas City",
       "name": "Chiefs",
       "stadium": "GEHA Field at Arrowhead Stadium",
+      "market": 37,
+      "roof": "open",
       "conference": "AFC",
       "division": "West",
       "colors": {
@@ -231,6 +259,8 @@
       "city": "Los Angeles",
       "name": "Chargers",
       "stadium": "SoFi Stadium",
+      "market": 1,
+      "roof": "dome",
       "conference": "AFC",
       "division": "West",
       "colors": {
@@ -246,6 +276,8 @@
       "city": "Las Vegas",
       "name": "Raiders",
       "stadium": "Allegiant Stadium",
+      "market": 23,
+      "roof": "dome",
       "conference": "AFC",
       "division": "West",
       "colors": {
@@ -261,6 +293,8 @@
       "city": "Dallas",
       "name": "Cowboys",
       "stadium": "AT&T Stadium",
+      "market": 49,
+      "roof": "retractable",
       "conference": "NFC",
       "division": "East",
       "colors": {
@@ -276,6 +310,8 @@
       "city": "New York",
       "name": "Giants",
       "stadium": "MetLife Stadium",
+      "market": 56,
+      "roof": "open",
       "conference": "NFC",
       "division": "East",
       "colors": {
@@ -291,6 +327,8 @@
       "city": "Philadelphia",
       "name": "Eagles",
       "stadium": "Lincoln Financial Field",
+      "market": 5,
+      "roof": "open",
       "conference": "NFC",
       "division": "East",
       "colors": {
@@ -306,6 +344,8 @@
       "city": "Washington",
       "name": "Commanders",
       "stadium": "Northwest Stadium",
+      "market": 21,
+      "roof": "open",
       "conference": "NFC",
       "division": "East",
       "colors": {
@@ -321,6 +361,8 @@
       "city": "Chicago",
       "name": "Bears",
       "stadium": "Soldier Field",
+      "market": 2,
+      "roof": "open",
       "conference": "NFC",
       "division": "North",
       "colors": {
@@ -336,6 +378,8 @@
       "city": "Detroit",
       "name": "Lions",
       "stadium": "Ford Field",
+      "market": 25,
+      "roof": "dome",
       "conference": "NFC",
       "division": "North",
       "colors": {
@@ -351,6 +395,8 @@
       "city": "Green Bay",
       "name": "Packers",
       "stadium": "Lambeau Field",
+      "market": 51,
+      "roof": "open",
       "conference": "NFC",
       "division": "North",
       "colors": {
@@ -366,6 +412,8 @@
       "city": "Minnesota",
       "name": "Vikings",
       "stadium": "U.S. Bank Stadium",
+      "market": 45,
+      "roof": "dome",
       "conference": "NFC",
       "division": "North",
       "colors": {
@@ -381,6 +429,8 @@
       "city": "Atlanta",
       "name": "Falcons",
       "stadium": "Mercedes-Benz Stadium",
+      "market": 35,
+      "roof": "retractable",
       "conference": "NFC",
       "division": "South",
       "colors": {
@@ -396,6 +446,8 @@
       "city": "Carolina",
       "name": "Panthers",
       "stadium": "Bank of America Stadium",
+      "market": 13,
+      "roof": "open",
       "conference": "NFC",
       "division": "South",
       "colors": {
@@ -411,6 +463,8 @@
       "city": "New Orleans",
       "name": "Saints",
       "stadium": "Caesars Superdome",
+      "market": 58,
+      "roof": "dome",
       "conference": "NFC",
       "division": "South",
       "colors": {
@@ -426,6 +480,8 @@
       "city": "Tampa Bay",
       "name": "Buccaneers",
       "stadium": "Raymond James Stadium",
+      "market": 48,
+      "roof": "open",
       "conference": "NFC",
       "division": "South",
       "colors": {
@@ -441,6 +497,8 @@
       "city": "Arizona",
       "name": "Cardinals",
       "stadium": "State Farm Stadium",
+      "market": 4,
+      "roof": "retractable",
       "conference": "NFC",
       "division": "West",
       "colors": {
@@ -456,6 +514,8 @@
       "city": "Los Angeles",
       "name": "Rams",
       "stadium": "SoFi Stadium",
+      "market": 1,
+      "roof": "dome",
       "conference": "NFC",
       "division": "West",
       "colors": {
@@ -471,6 +531,8 @@
       "city": "Seattle",
       "name": "Seahawks",
       "stadium": "Lumen Field",
+      "market": 17,
+      "roof": "open",
       "conference": "NFC",
       "division": "West",
       "colors": {
@@ -486,6 +548,8 @@
       "city": "San Francisco",
       "name": "49ers",
       "stadium": "Levi's Stadium",
+      "market": 57,
+      "roof": "open",
       "conference": "NFC",
       "division": "West",
       "colors": {
