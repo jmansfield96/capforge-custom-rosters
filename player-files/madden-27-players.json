@@ -1481,6 +1481,7 @@
         "runBlock": 16,
         "sPassAcc": 90,
         "throwOnRun": 82,
+        "throwPower": 90,
         "trucking": 63
       },
       "development": {
@@ -1886,6 +1887,7 @@
         "runBlock": 23,
         "sPassAcc": 87,
         "throwOnRun": 84,
+        "throwPower": 86,
         "trucking": 34
       },
       "development": {
@@ -2183,6 +2185,7 @@
         "runBlock": 23,
         "sPassAcc": 89,
         "throwOnRun": 83,
+        "throwPower": 89,
         "trucking": 42
       },
       "development": {
@@ -4277,6 +4280,7 @@
         "runBlock": 22,
         "sPassAcc": 91,
         "throwOnRun": 83,
+        "throwPower": 87,
         "trucking": 54
       },
       "development": {
@@ -4654,6 +4658,7 @@
         "runBlock": 12,
         "sPassAcc": 88,
         "throwOnRun": 76,
+        "throwPower": 92,
         "trucking": 29
       },
       "development": {
@@ -5519,6 +5524,7 @@
         "runBlock": 18,
         "sPassAcc": 86,
         "throwOnRun": 81,
+        "throwPower": 85,
         "trucking": 32
       },
       "development": {
@@ -5931,6 +5937,7 @@
         "runBlock": 27,
         "sPassAcc": 85,
         "throwOnRun": 82,
+        "throwPower": 88,
         "trucking": 62
       },
       "development": {
@@ -6029,6 +6036,7 @@
         "runBlock": 14,
         "sPassAcc": 94,
         "throwOnRun": 96,
+        "throwPower": 93,
         "trucking": 39
       },
       "development": {
@@ -8274,6 +8282,7 @@
         "runBlock": 11,
         "sPassAcc": 85,
         "throwOnRun": 81,
+        "throwPower": 86,
         "trucking": 38
       },
       "development": {
@@ -8683,6 +8692,7 @@
         "runBlock": 20,
         "sPassAcc": 82,
         "throwOnRun": 79,
+        "throwPower": 88,
         "trucking": 43
       },
       "development": {
@@ -8869,6 +8879,7 @@
         "runBlock": 21,
         "sPassAcc": 82,
         "throwOnRun": 78,
+        "throwPower": 86,
         "trucking": 50
       },
       "development": {
@@ -8921,6 +8932,7 @@
         "runBlock": 17,
         "sPassAcc": 99,
         "throwOnRun": 99,
+        "throwPower": 98,
         "trucking": 76
       },
       "development": {
@@ -11565,6 +11577,7 @@
         "runBlock": 16,
         "sPassAcc": 83,
         "throwOnRun": 76,
+        "throwPower": 84,
         "trucking": 27
       },
       "development": {
@@ -12457,6 +12470,7 @@
         "runBlock": 16,
         "sPassAcc": 90,
         "throwOnRun": 86,
+        "throwPower": 87,
         "trucking": 32
       },
       "development": {
@@ -14203,6 +14217,7 @@
         "runBlock": 20,
         "sPassAcc": 85,
         "throwOnRun": 84,
+        "throwPower": 86,
         "trucking": 61
       },
       "development": {
@@ -14302,6 +14317,7 @@
         "runBlock": 49,
         "sPassAcc": 86,
         "throwOnRun": 87,
+        "throwPower": 87,
         "trucking": 71
       },
       "development": {
@@ -14745,6 +14761,7 @@
         "runBlock": 17,
         "sPassAcc": 93,
         "throwOnRun": 99,
+        "throwPower": 97,
         "trucking": 54
       },
       "development": {
@@ -17352,6 +17369,7 @@
         "runBlock": 17,
         "sPassAcc": 85,
         "throwOnRun": 80,
+        "throwPower": 85,
         "trucking": 36
       },
       "development": {
@@ -17714,6 +17732,7 @@
         "runBlock": 19,
         "sPassAcc": 81,
         "throwOnRun": 77,
+        "throwPower": 86,
         "trucking": 26
       },
       "development": {
@@ -17865,6 +17884,7 @@
         "runBlock": 15,
         "sPassAcc": 98,
         "throwOnRun": 91,
+        "throwPower": 88,
         "trucking": 57
       },
       "development": {
@@ -19020,6 +19040,7 @@
         "runBlock": 15,
         "sPassAcc": 90,
         "throwOnRun": 81,
+        "throwPower": 89,
         "trucking": 40
       },
       "development": {
@@ -22597,6 +22618,7 @@
         "runBlock": 15,
         "sPassAcc": 87,
         "throwOnRun": 85,
+        "throwPower": 88,
         "trucking": 50
       },
       "development": {
@@ -22649,6 +22671,7 @@
         "runBlock": 27,
         "sPassAcc": 85,
         "throwOnRun": 85,
+        "throwPower": 88,
         "trucking": 62
       },
       "development": {
@@ -23057,6 +23080,7 @@
         "runBlock": 18,
         "sPassAcc": 84,
         "throwOnRun": 77,
+        "throwPower": 84,
         "trucking": 34
       },
       "development": {
@@ -23256,6 +23280,7 @@
         "runBlock": 40,
         "sPassAcc": 88,
         "throwOnRun": 86,
+        "throwPower": 91,
         "trucking": 66
       },
       "development": {
@@ -23638,6 +23663,7 @@
         "runBlock": 39,
         "sPassAcc": 94,
         "throwOnRun": 95,
+        "throwPower": 92,
         "trucking": 72
       },
       "development": {
@@ -26172,6 +26198,7 @@
         "runBlock": 23,
         "sPassAcc": 85,
         "throwOnRun": 82,
+        "throwPower": 90,
         "trucking": 53
       },
       "development": {
@@ -27170,6 +27197,7 @@
         "runBlock": 16,
         "sPassAcc": 89,
         "throwOnRun": 85,
+        "throwPower": 93,
         "trucking": 32
       },
       "development": {
@@ -29080,6 +29108,7 @@
         "runBlock": 19,
         "sPassAcc": 82,
         "throwOnRun": 82,
+        "throwPower": 86,
         "trucking": 37
       },
       "development": {
@@ -29403,6 +29432,7 @@
         "runBlock": 25,
         "sPassAcc": 80,
         "throwOnRun": 77,
+        "throwPower": 83,
         "trucking": 63
       },
       "development": {
@@ -29767,6 +29797,7 @@
         "runBlock": 16,
         "sPassAcc": 99,
         "throwOnRun": 87,
+        "throwPower": 90,
         "trucking": 34
       },
       "development": {
@@ -31749,6 +31780,7 @@
         "runBlock": 20,
         "sPassAcc": 85,
         "throwOnRun": 85,
+        "throwPower": 85,
         "trucking": 73
       },
       "development": {
@@ -32733,6 +32765,7 @@
         "runBlock": 19,
         "sPassAcc": 91,
         "throwOnRun": 90,
+        "throwPower": 92,
         "trucking": 51
       },
       "development": {
@@ -34476,6 +34509,7 @@
         "runBlock": 20,
         "sPassAcc": 85,
         "throwOnRun": 82,
+        "throwPower": 87,
         "trucking": 42
       },
       "development": {
@@ -36516,6 +36550,7 @@
         "runBlock": 12,
         "sPassAcc": 89,
         "throwOnRun": 89,
+        "throwPower": 91,
         "trucking": 31
       },
       "development": {
@@ -37981,6 +38016,7 @@
         "runBlock": 16,
         "sPassAcc": 85,
         "throwOnRun": 75,
+        "throwPower": 87,
         "trucking": 33
       },
       "development": {
@@ -38481,6 +38517,7 @@
         "runBlock": 22,
         "sPassAcc": 87,
         "throwOnRun": 76,
+        "throwPower": 86,
         "trucking": 35
       },
       "development": {
@@ -39392,6 +39429,7 @@
         "runBlock": 15,
         "sPassAcc": 91,
         "throwOnRun": 83,
+        "throwPower": 87,
         "trucking": 55
       },
       "development": {
@@ -40569,6 +40607,7 @@
         "runBlock": 26,
         "sPassAcc": 85,
         "throwOnRun": 78,
+        "throwPower": 96,
         "trucking": 78
       },
       "development": {
@@ -40673,6 +40712,7 @@
         "runBlock": 38,
         "sPassAcc": 85,
         "throwOnRun": 82,
+        "throwPower": 89,
         "trucking": 58
       },
       "development": {
@@ -41386,6 +41426,7 @@
         "runBlock": 21,
         "sPassAcc": 91,
         "throwOnRun": 83,
+        "throwPower": 92,
         "trucking": 60
       },
       "development": {
@@ -43989,6 +44030,7 @@
         "runBlock": 19,
         "sPassAcc": 83,
         "throwOnRun": 80,
+        "throwPower": 86,
         "trucking": 30
       },
       "development": {
@@ -44351,6 +44393,7 @@
         "runBlock": 23,
         "sPassAcc": 95,
         "throwOnRun": 97,
+        "throwPower": 97,
         "trucking": 75
       },
       "development": {
@@ -46105,6 +46148,7 @@
         "runBlock": 29,
         "sPassAcc": 88,
         "throwOnRun": 82,
+        "throwPower": 91,
         "trucking": 48
       },
       "development": {
@@ -46811,6 +46855,7 @@
         "runBlock": 30,
         "sPassAcc": 85,
         "throwOnRun": 79,
+        "throwPower": 88,
         "trucking": 33
       },
       "development": {
@@ -47204,6 +47249,7 @@
         "runBlock": 24,
         "sPassAcc": 96,
         "throwOnRun": 93,
+        "throwPower": 96,
         "trucking": 58
       },
       "development": {
@@ -49700,6 +49746,7 @@
         "runBlock": 27,
         "sPassAcc": 87,
         "throwOnRun": 85,
+        "throwPower": 91,
         "trucking": 70
       },
       "development": {
@@ -50067,6 +50114,7 @@
         "runBlock": 22,
         "sPassAcc": 99,
         "throwOnRun": 99,
+        "throwPower": 95,
         "trucking": 47
       },
       "development": {
@@ -51784,6 +51832,7 @@
         "runBlock": 15,
         "sPassAcc": 88,
         "throwOnRun": 85,
+        "throwPower": 90,
         "trucking": 49
       },
       "development": {
@@ -52694,6 +52743,7 @@
         "runBlock": 24,
         "sPassAcc": 83,
         "throwOnRun": 79,
+        "throwPower": 87,
         "trucking": 36
       },
       "development": {
@@ -54015,6 +54065,7 @@
         "runBlock": 14,
         "sPassAcc": 91,
         "throwOnRun": 88,
+        "throwPower": 85,
         "trucking": 28
       },
       "development": {
@@ -54066,6 +54117,7 @@
         "runBlock": 22,
         "sPassAcc": 90,
         "throwOnRun": 84,
+        "throwPower": 91,
         "trucking": 67
       },
       "development": {
@@ -55091,6 +55143,7 @@
         "runBlock": 15,
         "sPassAcc": 87,
         "throwOnRun": 80,
+        "throwPower": 86,
         "trucking": 27
       },
       "development": {
@@ -56386,6 +56439,7 @@
         "runBlock": 26,
         "sPassAcc": 86,
         "throwOnRun": 81,
+        "throwPower": 93,
         "trucking": 69
       },
       "development": {
@@ -58099,6 +58153,7 @@
         "runBlock": 24,
         "sPassAcc": 85,
         "throwOnRun": 74,
+        "throwPower": 87,
         "trucking": 30
       },
       "development": {
@@ -58449,6 +58504,7 @@
         "runBlock": 19,
         "sPassAcc": 83,
         "throwOnRun": 84,
+        "throwPower": 88,
         "trucking": 47
       },
       "development": {
@@ -59763,6 +59819,7 @@
         "runBlock": 13,
         "sPassAcc": 92,
         "throwOnRun": 90,
+        "throwPower": 90,
         "trucking": 25
       },
       "development": {
@@ -60269,6 +60326,7 @@
         "runBlock": 23,
         "sPassAcc": 88,
         "throwOnRun": 83,
+        "throwPower": 91,
         "trucking": 56
       },
       "development": {
@@ -60640,6 +60698,7 @@
         "runBlock": 27,
         "sPassAcc": 81,
         "throwOnRun": 77,
+        "throwPower": 89,
         "trucking": 62
       },
       "development": {
@@ -61578,6 +61637,7 @@
         "runBlock": 31,
         "sPassAcc": 95,
         "throwOnRun": 86,
+        "throwPower": 94,
         "trucking": 43
       },
       "development": {
@@ -64118,6 +64178,7 @@
         "runBlock": 12,
         "sPassAcc": 81,
         "throwOnRun": 77,
+        "throwPower": 83,
         "trucking": 45
       },
       "development": {
@@ -64434,6 +64495,7 @@
         "runBlock": 15,
         "sPassAcc": 86,
         "throwOnRun": 83,
+        "throwPower": 86,
         "trucking": 59
       },
       "development": {
@@ -65348,6 +65410,7 @@
         "runBlock": 11,
         "sPassAcc": 89,
         "throwOnRun": 86,
+        "throwPower": 92,
         "trucking": 40
       },
       "development": {
@@ -66567,6 +66630,7 @@
         "runBlock": 16,
         "sPassAcc": 91,
         "throwOnRun": 88,
+        "throwPower": 90,
         "trucking": 31
       },
       "development": {
@@ -67091,6 +67155,7 @@
         "runBlock": 18,
         "sPassAcc": 85,
         "throwOnRun": 80,
+        "throwPower": 93,
         "trucking": 40
       },
       "development": {
@@ -68250,6 +68315,7 @@
         "runBlock": 30,
         "sPassAcc": 89,
         "throwOnRun": 85,
+        "throwPower": 88,
         "trucking": 57
       },
       "development": {
@@ -69752,6 +69818,7 @@
         "runBlock": 37,
         "sPassAcc": 88,
         "throwOnRun": 85,
+        "throwPower": 90,
         "trucking": 64
       },
       "development": {
@@ -71880,6 +71947,7 @@
         "runBlock": 20,
         "sPassAcc": 87,
         "throwOnRun": 88,
+        "throwPower": 88,
         "trucking": 35
       },
       "development": {
@@ -72847,6 +72915,7 @@
         "runBlock": 38,
         "sPassAcc": 86,
         "throwOnRun": 75,
+        "throwPower": 92,
         "trucking": 64
       },
       "development": {
@@ -74097,6 +74166,7 @@
         "runBlock": 33,
         "sPassAcc": 90,
         "throwOnRun": 87,
+        "throwPower": 86,
         "trucking": 73
       },
       "development": {
@@ -75433,6 +75503,7 @@
         "runBlock": 14,
         "sPassAcc": 88,
         "throwOnRun": 84,
+        "throwPower": 87,
         "trucking": 23
       },
       "development": {
@@ -75901,6 +75972,7 @@
         "runBlock": 24,
         "sPassAcc": 89,
         "throwOnRun": 89,
+        "throwPower": 85,
         "trucking": 70
       },
       "development": {
@@ -75999,6 +76071,7 @@
         "runBlock": 15,
         "sPassAcc": 85,
         "throwOnRun": 82,
+        "throwPower": 87,
         "trucking": 39
       },
       "development": {
@@ -77066,6 +77139,7 @@
         "runBlock": 23,
         "sPassAcc": 93,
         "throwOnRun": 87,
+        "throwPower": 93,
         "trucking": 29
       },
       "development": {
@@ -78181,6 +78255,7 @@
         "runBlock": 20,
         "sPassAcc": 86,
         "throwOnRun": 71,
+        "throwPower": 91,
         "trucking": 65
       },
       "development": {
@@ -78585,6 +78660,7 @@
         "runBlock": 17,
         "sPassAcc": 87,
         "throwOnRun": 73,
+        "throwPower": 86,
         "trucking": 47
       },
       "development": {
@@ -78884,6 +78960,7 @@
         "runBlock": 25,
         "sPassAcc": 83,
         "throwOnRun": 82,
+        "throwPower": 86,
         "trucking": 38
       },
       "development": {
@@ -79224,6 +79301,7 @@
         "runBlock": 25,
         "sPassAcc": 94,
         "throwOnRun": 92,
+        "throwPower": 91,
         "trucking": 44
       },
       "development": {
@@ -81256,6 +81334,7 @@
         "runBlock": 24,
         "sPassAcc": 85,
         "throwOnRun": 76,
+        "throwPower": 89,
         "trucking": 46
       },
       "development": {
@@ -81414,6 +81493,7 @@
         "runBlock": 30,
         "sPassAcc": 81,
         "throwOnRun": 82,
+        "throwPower": 92,
         "trucking": 52
       },
       "development": {
@@ -82363,6 +82443,7 @@
         "runBlock": 19,
         "sPassAcc": 91,
         "throwOnRun": 88,
+        "throwPower": 87,
         "trucking": 51
       },
       "development": {
@@ -83382,6 +83463,7 @@
         "runBlock": 32,
         "sPassAcc": 88,
         "throwOnRun": 79,
+        "throwPower": 86,
         "trucking": 50
       },
       "development": {
@@ -85071,6 +85153,7 @@
         "runBlock": 23,
         "sPassAcc": 82,
         "throwOnRun": 76,
+        "throwPower": 90,
         "trucking": 45
       },
       "development": {
@@ -85499,6 +85582,7 @@
         "runBlock": 29,
         "sPassAcc": 91,
         "throwOnRun": 87,
+        "throwPower": 95,
         "trucking": 71
       },
       "development": {
@@ -87908,6 +87992,7 @@
         "runBlock": 24,
         "sPassAcc": 87,
         "throwOnRun": 81,
+        "throwPower": 87,
         "trucking": 61
       },
       "development": {
@@ -89176,6 +89261,7 @@
         "runBlock": 32,
         "sPassAcc": 90,
         "throwOnRun": 91,
+        "throwPower": 91,
         "trucking": 41
       },
       "development": {
@@ -90560,6 +90646,7 @@
         "runBlock": 21,
         "sPassAcc": 85,
         "throwOnRun": 82,
+        "throwPower": 89,
         "trucking": 53
       },
       "development": {
@@ -91278,6 +91365,7 @@
         "runBlock": 16,
         "sPassAcc": 89,
         "throwOnRun": 89,
+        "throwPower": 92,
         "trucking": 28
       },
       "development": {
@@ -92807,6 +92895,7 @@
         "runBlock": 28,
         "sPassAcc": 86,
         "throwOnRun": 81,
+        "throwPower": 86,
         "trucking": 41
       },
       "development": {
@@ -93753,6 +93842,7 @@
         "runBlock": 21,
         "sPassAcc": 82,
         "throwOnRun": 86,
+        "throwPower": 87,
         "trucking": 48
       },
       "development": {
@@ -93843,6 +93933,7 @@
         "runBlock": 24,
         "sPassAcc": 69,
         "throwOnRun": 78,
+        "throwPower": 85,
         "trucking": 55
       },
       "development": {
@@ -93887,6 +93978,7 @@
         "runBlock": 26,
         "sPassAcc": 92,
         "throwOnRun": 77,
+        "throwPower": 78,
         "trucking": 38
       },
       "development": {
@@ -93931,6 +94023,7 @@
         "runBlock": 17,
         "sPassAcc": 76,
         "throwOnRun": 72,
+        "throwPower": 81,
         "trucking": 53
       },
       "development": {
@@ -93975,6 +94068,7 @@
         "runBlock": 18,
         "sPassAcc": 71,
         "throwOnRun": 90,
+        "throwPower": 70,
         "trucking": 53
       },
       "development": {
@@ -94019,6 +94113,7 @@
         "runBlock": 15,
         "sPassAcc": 75,
         "throwOnRun": 60,
+        "throwPower": 84,
         "trucking": 47
       },
       "development": {
@@ -94063,6 +94158,7 @@
         "runBlock": 28,
         "sPassAcc": 71,
         "throwOnRun": 65,
+        "throwPower": 82,
         "trucking": 52
       },
       "development": {
@@ -94107,6 +94203,7 @@
         "runBlock": 22,
         "sPassAcc": 65,
         "throwOnRun": 69,
+        "throwPower": 83,
         "trucking": 48
       },
       "development": {
@@ -94151,6 +94248,7 @@
         "runBlock": 33,
         "sPassAcc": 74,
         "throwOnRun": 60,
+        "throwPower": 70,
         "trucking": 51
       },
       "development": {
@@ -94195,6 +94293,7 @@
         "runBlock": 20,
         "sPassAcc": 76,
         "throwOnRun": 68,
+        "throwPower": 91,
         "trucking": 55
       },
       "development": {
@@ -101663,6 +101762,7 @@
         "runBlock": 24,
         "sPassAcc": 68,
         "throwOnRun": 78,
+        "throwPower": 82,
         "trucking": 56
       },
       "development": {
