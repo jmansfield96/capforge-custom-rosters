@@ -26,6 +26,27 @@ https://github.com/jmansfield96/capforge-custom-rosters/blob/main/teams-files/nf
 https://github.com/jmansfield96/capforge-custom-rosters/blob/main/staff-files/example-staff.json
 ```
 
+### 2018 season (Madden 19)
+
+The real 2018 NFL season: Week 1 rosters, Madden 19 ratings, real 2018 contracts, and 2018 team names and
+stadiums (the Oakland Raiders, the Washington Redskins, the Rams at the Coliseum). Use all three files together,
+and start at **Reg Season**.
+
+**PLAYERS**
+```
+https://github.com/jmansfield96/capforge-custom-rosters/blob/main/player-files/madden-2018-players.json
+```
+
+**TEAMS**
+```
+https://github.com/jmansfield96/capforge-custom-rosters/blob/main/teams-files/2018-teams.json
+```
+
+**STAFF**
+```
+https://github.com/jmansfield96/capforge-custom-rosters/blob/main/staff-files/2018-staff.json
+```
+
 ---
 
 ## What's in here
@@ -35,6 +56,9 @@ https://github.com/jmansfield96/capforge-custom-rosters/blob/main/staff-files/ex
 | `player-files/` | `madden-27-players.json` | **2,051 players** on all 32 clubs, with ratings, positions, ages, colleges, jersey numbers, draft info and real contracts. It also includes each club's 2026 dead money. |
 | `teams-files/` | `nfl-teams.json` | **All 32 clubs** with real city, name, stadium, conference/division and team colors. |
 | `staff-files/` | `example-staff.json` | **672 staff**: 7 chairs per club (HC, OC, DC, special teams, 2 scouts, team doctor) plus a free-agent pool. |
+| `player-files/` | `madden-2018-players.json` | **2018 season: 2,514 players**, 1,663 on Week 1 rosters. Madden 19 ratings, real 2018 contracts scaled from the $177.2M cap to CapForge's $300M, draft history, potentials set from how each player actually developed (his best Madden 20-23 rating), and faces matched to each player's real headshot. |
+| `teams-files/` | `2018-teams.json` | **2018 clubs:** Oakland Raiders, Washington Redskins, and 2018 stadiums and colors. Use it with the 2018 players file. |
+| `staff-files/` | `2018-staff.json` | The same made-up staff, set up for the 2018 team file (Raiders as `OAK`). |
 
 You can use any of the three files on its own. Use only the ones you want.
 
@@ -90,7 +114,12 @@ imported when you start a new save.
 Credit to the sources that did the real work:
 
 - **Player ratings:** [EA SPORTS Madden NFL 27](https://www.ea.com/games/madden-nfl/ratings) player
-  ratings, converted into CapForge's rating system.
+  ratings, converted into CapForge's rating system. 2018 season: Madden NFL 19 launch ratings, via
+  [theedgepredictor/nfl-madden-data](https://github.com/theedgepredictor/nfl-madden-data).
+- **2018 rosters and contracts:** Week 1 2018 rosters and OverTheCap contract history from
+  [nflverse](https://github.com/nflverse/nflverse-data), licensed
+  [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Contracts are scaled by 300 / 177.2 to CapForge's cap;
+  a few clubs over the cap after scaling were trimmed to fit.
 - **Contracts and dead money:** [Spotrac](https://www.spotrac.com/nfl/) team cap pages (cap hits, guarantees,
   contract years, dead cap).
 - **Draft year and pick number:** [nflverse](https://github.com/nflverse/nflverse-data)
@@ -115,5 +144,5 @@ converted, and how to edit or build your own league. For now this repo is just t
 
 This is an unofficial, non-commercial fan project. It is not affiliated with or endorsed by the NFL, the
 NFLPA, any NFL club, Electronic Arts, Spotrac, or the makers of CapForge. Team and player names and all
-trademarks belong to their owners. Ratings are derived from Madden NFL 27 and are © Electronic Arts.
+trademarks belong to their owners. Ratings are derived from Madden NFL 27 and Madden NFL 19 and are © Electronic Arts.
 If you own something here and want it removed, open an issue and it will be taken down.
