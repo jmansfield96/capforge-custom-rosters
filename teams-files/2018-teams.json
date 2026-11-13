@@ -1,0 +1,563 @@
+{
+ "schemaVersion": 3,
+ "note": "2018 NFL season identities: the CapForge Rosters 2026 teams file with the 2018 differences applied (custom-players/seasons/2018/profile.py).",
+ "league": {
+  "startingSalaryCap": 300000000,
+  "conferences": [
+   "AFC",
+   "NFC"
+  ],
+  "divisions": [
+   "East",
+   "North",
+   "South",
+   "West"
+  ]
+ },
+ "teams": [
+  {
+   "teamId": 4,
+   "abbr": "BUF",
+   "city": "Buffalo",
+   "name": "Bills",
+   "stadium": "New Era Field",
+   "market": 50,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "East",
+   "colors": {
+    "primary": "#00338D",
+    "secondary": "#C60C30",
+    "tertiary": "#00274D"
+   },
+   "logo": "assets/logos/fictional/buf.png"
+  },
+  {
+   "teamId": 20,
+   "abbr": "MIA",
+   "city": "Miami",
+   "name": "Dolphins",
+   "stadium": "Hard Rock Stadium",
+   "market": 41,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "East",
+   "colors": {
+    "primary": "#008E97",
+    "secondary": "#FC4C02",
+    "tertiary": "#005778"
+   },
+   "logo": "assets/logos/fictional/mia.png"
+  },
+  {
+   "teamId": 22,
+   "abbr": "NE",
+   "city": "New England",
+   "name": "Patriots",
+   "stadium": "Gillette Stadium",
+   "market": 55,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "East",
+   "colors": {
+    "primary": "#002244",
+    "secondary": "#C60C30",
+    "tertiary": "#B0B7BC"
+   },
+   "logo": "assets/logos/fictional/ne.png"
+  },
+  {
+   "teamId": 25,
+   "abbr": "NYJ",
+   "city": "New York",
+   "name": "Jets",
+   "stadium": "MetLife Stadium",
+   "market": 56,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "East",
+   "colors": {
+    "primary": "#0C371D",
+    "secondary": "#000000",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/nyj.png"
+  },
+  {
+   "teamId": 3,
+   "abbr": "BAL",
+   "city": "Baltimore",
+   "name": "Ravens",
+   "stadium": "M&T Bank Stadium",
+   "market": 29,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "North",
+   "colors": {
+    "primary": "#241773",
+    "secondary": "#9E7C0C",
+    "tertiary": "#000000"
+   },
+   "logo": "assets/logos/fictional/bal.png"
+  },
+  {
+   "teamId": 7,
+   "abbr": "CIN",
+   "city": "Cincinnati",
+   "name": "Bengals",
+   "stadium": "Paul Brown Stadium",
+   "market": 54,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "North",
+   "colors": {
+    "primary": "#FB4F14",
+    "secondary": "#000000",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/cin.png"
+  },
+  {
+   "teamId": 8,
+   "abbr": "CLE",
+   "city": "Cleveland",
+   "name": "Browns",
+   "stadium": "FirstEnergy Stadium",
+   "market": 53,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "North",
+   "colors": {
+    "primary": "#311D00",
+    "secondary": "#FF3C00",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/cle.png"
+  },
+  {
+   "teamId": 27,
+   "abbr": "PIT",
+   "city": "Pittsburgh",
+   "name": "Steelers",
+   "stadium": "Heinz Field",
+   "market": 52,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "North",
+   "colors": {
+    "primary": "#FFB612",
+    "secondary": "#000000",
+    "tertiary": "#A5ACAF"
+   },
+   "logo": "assets/logos/fictional/pit.png"
+  },
+  {
+   "teamId": 13,
+   "abbr": "HOU",
+   "city": "Houston",
+   "name": "Texans",
+   "stadium": "NRG Stadium",
+   "market": 3,
+   "roof": "retractable",
+   "conference": "AFC",
+   "division": "South",
+   "colors": {
+    "primary": "#03202F",
+    "secondary": "#A71930",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/hou.png"
+  },
+  {
+   "teamId": 14,
+   "abbr": "IND",
+   "city": "Indianapolis",
+   "name": "Colts",
+   "stadium": "Lucas Oil Stadium",
+   "market": 15,
+   "roof": "retractable",
+   "conference": "AFC",
+   "division": "South",
+   "colors": {
+    "primary": "#002C5F",
+    "secondary": "#A2AAAD",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/ind.png"
+  },
+  {
+   "teamId": 15,
+   "abbr": "JAX",
+   "city": "Jacksonville",
+   "name": "Jaguars",
+   "stadium": "TIAA Bank Field",
+   "market": 9,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "South",
+   "colors": {
+    "primary": "#006778",
+    "secondary": "#9F792C",
+    "tertiary": "#000000"
+   },
+   "logo": "assets/logos/fictional/jax.png"
+  },
+  {
+   "teamId": 31,
+   "abbr": "TEN",
+   "city": "Tennessee",
+   "name": "Titans",
+   "stadium": "Nissan Stadium",
+   "market": 20,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "South",
+   "colors": {
+    "primary": "#0C2340",
+    "secondary": "#4B92DB",
+    "tertiary": "#C60C30"
+   },
+   "logo": "assets/logos/fictional/ten.png"
+  },
+  {
+   "teamId": 10,
+   "abbr": "DEN",
+   "city": "Denver",
+   "name": "Broncos",
+   "stadium": "Broncos Stadium at Mile High",
+   "market": 18,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "West",
+   "colors": {
+    "primary": "#FB4F14",
+    "secondary": "#002244",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/den.png"
+  },
+  {
+   "teamId": 16,
+   "abbr": "KC",
+   "city": "Kansas City",
+   "name": "Chiefs",
+   "stadium": "Arrowhead Stadium",
+   "market": 37,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "West",
+   "colors": {
+    "primary": "#E31837",
+    "secondary": "#FFB81C",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/kc.png"
+  },
+  {
+   "teamId": 17,
+   "abbr": "LAC",
+   "city": "Los Angeles",
+   "name": "Chargers",
+   "stadium": "StubHub Center",
+   "market": 1,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "West",
+   "colors": {
+    "primary": "#002A5E",
+    "secondary": "#FFC20E",
+    "tertiary": "#002244"
+   },
+   "logo": "assets/logos/fictional/lac.png"
+  },
+  {
+   "teamId": 19,
+   "abbr": "OAK",
+   "city": "Oakland",
+   "name": "Raiders",
+   "stadium": "Oakland-Alameda County Coliseum",
+   "market": 23,
+   "roof": "open",
+   "conference": "AFC",
+   "division": "West",
+   "colors": {
+    "primary": "#000000",
+    "secondary": "#A5ACAF",
+    "tertiary": "#000000"
+   },
+   "logo": "assets/logos/fictional/lv.png"
+  },
+  {
+   "teamId": 9,
+   "abbr": "DAL",
+   "city": "Dallas",
+   "name": "Cowboys",
+   "stadium": "AT&T Stadium",
+   "market": 49,
+   "roof": "retractable",
+   "conference": "NFC",
+   "division": "East",
+   "colors": {
+    "primary": "#003594",
+    "secondary": "#869397",
+    "tertiary": "#00338D"
+   },
+   "logo": "assets/logos/fictional/dal.png"
+  },
+  {
+   "teamId": 24,
+   "abbr": "NYG",
+   "city": "New York",
+   "name": "Giants",
+   "stadium": "MetLife Stadium",
+   "market": 56,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "East",
+   "colors": {
+    "primary": "#0B2265",
+    "secondary": "#A71930",
+    "tertiary": "#A5ACAF"
+   },
+   "logo": "assets/logos/fictional/nyg.png"
+  },
+  {
+   "teamId": 26,
+   "abbr": "PHI",
+   "city": "Philadelphia",
+   "name": "Eagles",
+   "stadium": "Lincoln Financial Field",
+   "market": 5,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "East",
+   "colors": {
+    "primary": "#004C54",
+    "secondary": "#A5ACAF",
+    "tertiary": "#000000"
+   },
+   "logo": "assets/logos/fictional/phi.png"
+  },
+  {
+   "teamId": 32,
+   "abbr": "WAS",
+   "city": "Washington",
+   "name": "Redskins",
+   "stadium": "FedExField",
+   "market": 21,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "East",
+   "colors": {
+    "primary": "#773141",
+    "secondary": "#FFB612",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/was.png"
+  },
+  {
+   "teamId": 6,
+   "abbr": "CHI",
+   "city": "Chicago",
+   "name": "Bears",
+   "stadium": "Soldier Field",
+   "market": 2,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "North",
+   "colors": {
+    "primary": "#0B162A",
+    "secondary": "#E64100",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/chi.png"
+  },
+  {
+   "teamId": 11,
+   "abbr": "DET",
+   "city": "Detroit",
+   "name": "Lions",
+   "stadium": "Ford Field",
+   "market": 25,
+   "roof": "dome",
+   "conference": "NFC",
+   "division": "North",
+   "colors": {
+    "primary": "#0076B6",
+    "secondary": "#B0B7BC",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/det.png"
+  },
+  {
+   "teamId": 12,
+   "abbr": "GB",
+   "city": "Green Bay",
+   "name": "Packers",
+   "stadium": "Lambeau Field",
+   "market": 51,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "North",
+   "colors": {
+    "primary": "#203731",
+    "secondary": "#FFB612",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/gb.png"
+  },
+  {
+   "teamId": 21,
+   "abbr": "MIN",
+   "city": "Minnesota",
+   "name": "Vikings",
+   "stadium": "U.S. Bank Stadium",
+   "market": 45,
+   "roof": "dome",
+   "conference": "NFC",
+   "division": "North",
+   "colors": {
+    "primary": "#4F2683",
+    "secondary": "#FFC62F",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/min.png"
+  },
+  {
+   "teamId": 2,
+   "abbr": "ATL",
+   "city": "Atlanta",
+   "name": "Falcons",
+   "stadium": "Mercedes-Benz Stadium",
+   "market": 35,
+   "roof": "retractable",
+   "conference": "NFC",
+   "division": "South",
+   "colors": {
+    "primary": "#A71930",
+    "secondary": "#000000",
+    "tertiary": "#A5ACAF"
+   },
+   "logo": "assets/logos/fictional/atl.png"
+  },
+  {
+   "teamId": 5,
+   "abbr": "CAR",
+   "city": "Carolina",
+   "name": "Panthers",
+   "stadium": "Bank of America Stadium",
+   "market": 13,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "South",
+   "colors": {
+    "primary": "#0085CA",
+    "secondary": "#000000",
+    "tertiary": "#BFC0BF"
+   },
+   "logo": "assets/logos/fictional/car.png"
+  },
+  {
+   "teamId": 23,
+   "abbr": "NO",
+   "city": "New Orleans",
+   "name": "Saints",
+   "stadium": "Mercedes-Benz Superdome",
+   "market": 58,
+   "roof": "dome",
+   "conference": "NFC",
+   "division": "South",
+   "colors": {
+    "primary": "#D3BC8D",
+    "secondary": "#000000",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/no.png"
+  },
+  {
+   "teamId": 30,
+   "abbr": "TB",
+   "city": "Tampa Bay",
+   "name": "Buccaneers",
+   "stadium": "Raymond James Stadium",
+   "market": 48,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "South",
+   "colors": {
+    "primary": "#D50A0A",
+    "secondary": "#34302B",
+    "tertiary": "#FF7900"
+   },
+   "logo": "assets/logos/fictional/tb.png"
+  },
+  {
+   "teamId": 1,
+   "abbr": "ARI",
+   "city": "Arizona",
+   "name": "Cardinals",
+   "stadium": "State Farm Stadium",
+   "market": 4,
+   "roof": "retractable",
+   "conference": "NFC",
+   "division": "West",
+   "colors": {
+    "primary": "#97233F",
+    "secondary": "#FFB612",
+    "tertiary": "#000000"
+   },
+   "logo": "assets/logos/fictional/ari.png"
+  },
+  {
+   "teamId": 18,
+   "abbr": "LAR",
+   "city": "Los Angeles",
+   "name": "Rams",
+   "stadium": "Los Angeles Memorial Coliseum",
+   "market": 1,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "West",
+   "colors": {
+    "primary": "#002244",
+    "secondary": "#B3995D",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/lar.png"
+  },
+  {
+   "teamId": 28,
+   "abbr": "SEA",
+   "city": "Seattle",
+   "name": "Seahawks",
+   "stadium": "CenturyLink Field",
+   "market": 17,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "West",
+   "colors": {
+    "primary": "#002244",
+    "secondary": "#69BE28",
+    "tertiary": "#A5ACAF"
+   },
+   "logo": "assets/logos/fictional/sea.png"
+  },
+  {
+   "teamId": 29,
+   "abbr": "SF",
+   "city": "San Francisco",
+   "name": "49ers",
+   "stadium": "Levi's Stadium",
+   "market": 57,
+   "roof": "open",
+   "conference": "NFC",
+   "division": "West",
+   "colors": {
+    "primary": "#AA0000",
+    "secondary": "#B3995D",
+    "tertiary": "#FFFFFF"
+   },
+   "logo": "assets/logos/fictional/sf.png"
+  }
+ ]
+}
